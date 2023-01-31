@@ -1,5 +1,5 @@
 ### Olá, tudo bem?👋
- Sou Willian, desenvolvedor de software com experiência em JavaScript, React.js, Node.js e Firebase. Possuo habilidades sólidas em desenvolvimento web e busco novos desafios. Atualmente estou me aprofundando em Java Spring e banco de dados para ser um desenvolvedor full stack especializado em Java. Tenho experiência em equipes ágeis e projetos de alta performance, habilidades de comunicação e colaboração para trabalhar em equipes multidisciplinares. Estou animado para aplicar meus conhecimentos adquiridos em projetos futuros e continuar crescendo profissionalmente. 
+  Sou Willian, desenvolvedor de software com experiência em JavaScript, React.js, Node.js e Firebase. Possuo habilidades sólidas em desenvolvimento web e busco novos desafios. Atualmente estou me aprofundando em Java Spring e banco de dados para ser um desenvolvedor full stack especializado em Java. Tenho experiência em equipes ágeis e projetos de alta performance, habilidades de comunicação e colaboração para trabalhar em equipes multidisciplinares. Estou animado para aplicar meus conhecimentos adquiridos em projetos futuros e continuar crescendo profissionalmente. 
  
 <br/> 💻   Minha stack: ReactJS, Java e Node.js
 
