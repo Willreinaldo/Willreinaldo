@@ -3,8 +3,7 @@
  
 <br/> 💻   Minha stack: ReactJS, Java e Node.js
 
-<br/> 🌱 No momento estou estudando construções de API's com Java Spring
-
+<br/> 🌱 No momento estou estudando testes de software em Java com JUnit
 <br/> 📧   Contato:  
  <a href = "mailto:willian.reinaldo.m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willianreinaldo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
